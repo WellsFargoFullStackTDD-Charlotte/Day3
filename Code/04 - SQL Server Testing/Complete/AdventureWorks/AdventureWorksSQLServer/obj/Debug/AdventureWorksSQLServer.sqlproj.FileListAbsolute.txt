@@ -1,0 +1,18 @@
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks\AdventureWorksSQLServer\bin\Debug\AdventureWorksSQLServer.dacpac
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks\AdventureWorksSQLServer\obj\Debug\AdventureWorksSQLServer.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks\AdventureWorksSQLServer\obj\Debug\AdventureWorksSQLServer.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks\AdventureWorksSQLServer\bin\Debug\AdventureWorksSQLServer.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks\AdventureWorksSQLServer\bin\Debug\AdventureWorksSQLServer.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks\AdventureWorksSQLServer\obj\Debug\AdventureWorksSQLServer.sqlprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\Course Files\Full Stack TDD - Wells Fargo\Instructor Files\Projects\Santa Monica 05-04-15\Instructor\Projects\AdventureWorks\AdventureWorksSQLServer\bin\Debug\AdventureWorksSQLServer.dacpac
+C:\Users\Geek\Documents\Course Files\Full Stack TDD - Wells Fargo\Instructor Files\Projects\Santa Monica 05-04-15\Instructor\Projects\AdventureWorks\AdventureWorksSQLServer\bin\Debug\AdventureWorksSQLServer.dll
+C:\Users\Geek\Documents\Course Files\Full Stack TDD - Wells Fargo\Instructor Files\Projects\Santa Monica 05-04-15\Instructor\Projects\AdventureWorks\AdventureWorksSQLServer\bin\Debug\AdventureWorksSQLServer.pdb
+C:\Users\Geek\Documents\Course Files\Full Stack TDD - Wells Fargo\Instructor Files\Projects\Santa Monica 05-04-15\Instructor\Projects\AdventureWorks\AdventureWorksSQLServer\obj\Debug\AdventureWorksSQLServer.sqlprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\Course Files\Full Stack TDD - Wells Fargo\Instructor Files\Projects\Santa Monica 05-04-15\Instructor\Projects\AdventureWorks\AdventureWorksSQLServer\obj\Debug\AdventureWorksSQLServer.dll
+C:\Users\Geek\Documents\Course Files\Full Stack TDD - Wells Fargo\Instructor Files\Projects\Santa Monica 05-04-15\Instructor\Projects\AdventureWorks\AdventureWorksSQLServer\obj\Debug\AdventureWorksSQLServer.pdb
+C:\Users\Geek\Documents\InstructorProjects\AdventureWorks\AdventureWorksSQLServer\bin\Debug\AdventureWorksSQLServer.dacpac
+C:\Users\Geek\Documents\InstructorProjects\AdventureWorks\AdventureWorksSQLServer\bin\Debug\AdventureWorksSQLServer.dll
+C:\Users\Geek\Documents\InstructorProjects\AdventureWorks\AdventureWorksSQLServer\bin\Debug\AdventureWorksSQLServer.pdb
+C:\Users\Geek\Documents\InstructorProjects\AdventureWorks\AdventureWorksSQLServer\obj\Debug\AdventureWorksSQLServer.sqlprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\InstructorProjects\AdventureWorks\AdventureWorksSQLServer\obj\Debug\AdventureWorksSQLServer.dll
+C:\Users\Geek\Documents\InstructorProjects\AdventureWorks\AdventureWorksSQLServer\obj\Debug\AdventureWorksSQLServer.pdb

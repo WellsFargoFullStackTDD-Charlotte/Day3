@@ -1,0 +1,16 @@
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks\AdventureWorksSQLServer.Tests\bin\Debug\AdventureWorksSQLServer.Tests.dll.config
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks\AdventureWorksSQLServer.Tests\bin\Debug\AdventureWorksSQLServer.Tests.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks\AdventureWorksSQLServer.Tests\bin\Debug\AdventureWorksSQLServer.Tests.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks\AdventureWorksSQLServer.Tests\obj\Debug\AdventureWorksSQLServer.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks\AdventureWorksSQLServer.Tests\obj\Debug\AdventureWorksSQLServer.Tests.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks\AdventureWorksSQLServer.Tests\obj\Debug\AdventureWorksSQLServer.Tests.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks\AdventureWorksSQLServer.Tests\obj\Debug\AdventureWorksSQLServer.Tests.ufnGetCustomerSalesCount.resources
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks\AdventureWorksSQLServer.Tests\obj\Debug\AdventureWorksSQLServer.Tests.csproj.GenerateResource.Cache
+C:\Users\Geek\Documents\Course Files\Full Stack TDD - Wells Fargo\Instructor Files\Projects\Santa Monica 05-04-15\Instructor\Projects\AdventureWorks\AdventureWorksSQLServer.Tests\bin\Debug\AdventureWorksSQLServer.Tests.dll.config
+C:\Users\Geek\Documents\Course Files\Full Stack TDD - Wells Fargo\Instructor Files\Projects\Santa Monica 05-04-15\Instructor\Projects\AdventureWorks\AdventureWorksSQLServer.Tests\bin\Debug\AdventureWorksSQLServer.Tests.dll
+C:\Users\Geek\Documents\Course Files\Full Stack TDD - Wells Fargo\Instructor Files\Projects\Santa Monica 05-04-15\Instructor\Projects\AdventureWorks\AdventureWorksSQLServer.Tests\bin\Debug\AdventureWorksSQLServer.Tests.pdb
+C:\Users\Geek\Documents\Course Files\Full Stack TDD - Wells Fargo\Instructor Files\Projects\Santa Monica 05-04-15\Instructor\Projects\AdventureWorks\AdventureWorksSQLServer.Tests\obj\Debug\AdventureWorksSQLServer.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\Course Files\Full Stack TDD - Wells Fargo\Instructor Files\Projects\Santa Monica 05-04-15\Instructor\Projects\AdventureWorks\AdventureWorksSQLServer.Tests\obj\Debug\AdventureWorksSQLServer.Tests.ufnGetCustomerSalesCount.resources
+C:\Users\Geek\Documents\Course Files\Full Stack TDD - Wells Fargo\Instructor Files\Projects\Santa Monica 05-04-15\Instructor\Projects\AdventureWorks\AdventureWorksSQLServer.Tests\obj\Debug\AdventureWorksSQLServer.Tests.csproj.GenerateResource.Cache
+C:\Users\Geek\Documents\Course Files\Full Stack TDD - Wells Fargo\Instructor Files\Projects\Santa Monica 05-04-15\Instructor\Projects\AdventureWorks\AdventureWorksSQLServer.Tests\obj\Debug\AdventureWorksSQLServer.Tests.dll
+C:\Users\Geek\Documents\Course Files\Full Stack TDD - Wells Fargo\Instructor Files\Projects\Santa Monica 05-04-15\Instructor\Projects\AdventureWorks\AdventureWorksSQLServer.Tests\obj\Debug\AdventureWorksSQLServer.Tests.pdb
